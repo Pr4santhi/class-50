@@ -1,0 +1,25 @@
+h1{
+    color:blueviolet;
+}
+*{
+    border:2px solid black;
+}
+
+.header{
+    border:2px solid red;
+    background-color: royalblue;
+    display:flex;
+    justify-content: space-around;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap; 
+    justify-content: space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+
+}
